@@ -1,0 +1,11 @@
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\obj\Debug\FreqTemplate.csprojAssemblyReference.cache
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\obj\Debug\FreqTemplate.csproj.CoreCompileInputs.cache
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\bin\Debug\FreqTemplate.exe.config
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\bin\Debug\FreqTemplate.exe
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\bin\Debug\FreqTemplate.pdb
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\obj\Debug\FreqTemplate.csproj.CopyComplete
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\obj\Debug\FreqTemplate.exe
+C:\Users\nc\source\repos\FreqTemplate\FreqTemplate\obj\Debug\FreqTemplate.pdb
